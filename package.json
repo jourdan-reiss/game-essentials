@@ -1,6 +1,6 @@
 {
   "name": "com.jrussell.game.essentials",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "displayName": "JRussell.GameEssentials",
   "description": "Reusable classes for faster development start up. Includes state machine behaviour, scriptable object events, input handling, and more.",
   "unity": "2021.1",

@@ -1,0 +1,16 @@
+{
+    "name": "jrussell.gameessentials",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b378cd020a4515144b2f08e623386455"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

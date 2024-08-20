@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Runtime.EventObjects
+namespace EventObjects
 {
     public abstract class AbstractEvent<T> : ScriptableObject
     {
